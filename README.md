@@ -1878,7 +1878,7 @@ Three days of free quota for non-logged-in users, unlimited for logged-in users,
                         💪
             </td>
             <td>2023-05-17</td>
-            <td>GPT4 的兑换码：TRYGPT4
+            <td>GPT4 redemption code：TRYGPT4
 </td>
         </tr>
         <tr>
