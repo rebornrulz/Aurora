@@ -1605,7 +1605,7 @@ Free Steps: Go to API settings and select "Use custom API endpoints." Then, ente
             </td>
             <td>2023-06-17</td>
             <td><details>
-<summary>内容过长，点击展开</summary>
+<summary>The content is too long, click to expand</summary>
 在聊天室使用时，请在提问的问题前面加上 @ChatGPT，否则 GPT 不搭理。  
 </details></td>
         </tr>
